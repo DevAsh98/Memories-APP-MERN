@@ -1,0 +1,18 @@
+#Logs
+logs 
+*.Log
+npm-debug.*log
+
+#dependecy directory
+node_modules
+
+#Build generated files
+dist
+lib
+release
+solution
+temp
+
+#env processes files
+
+*.env
